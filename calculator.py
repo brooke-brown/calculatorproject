@@ -1,9 +1,11 @@
 def add(a, b):
-    pass
+    """Return the sum of a and b."""
+    return a + b
 
 
 def subtract(a, b):
-    pass
+    """Return a minus b."""
+    return a - b
 
 
 def multiply(a, b):
