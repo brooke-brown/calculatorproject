@@ -30,6 +30,9 @@ You need Python 3.10 or newer.
 |---|---|
 | `README.md` | This file |
 | `.gitignore` | Files Git should leave untracked |
+| `CONTRIBUTING.md` | How the team works together |
+| `CHANGELOG.md` | Notable repository changes |
+| `.github/` | Issue and pull request templates |
 
 ## Team
 
