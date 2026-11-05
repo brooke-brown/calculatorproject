@@ -1,6 +1,6 @@
 """Check that calculator.py meets the assignment's formatting rules.
 
-Run with: python3 -m unittest test_calculator -v
+Run with: python3 -m unittest test_formatting -v
 """
 
 import ast
